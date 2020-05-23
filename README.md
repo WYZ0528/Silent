@@ -6,3 +6,4 @@ A simple weibo client based on OAuth2.0<br>
 ## 开发日志
 ### 2020.5.23
 * 新建了项目工程，命名为Silent（静）
+* WYZ测试了一下
