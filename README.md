@@ -7,5 +7,5 @@ A simple weibo client based on OAuth2.0<br>
 
 ### 2020.5.23
 
-* 新建了项目工程，命名为Silent（静）
+* 新建了项目工程，命名为Silent（静） - madderate
 * 进行一次测试 -----WYZ
